@@ -3,7 +3,7 @@
 
 - Currently learning **React JS, Laravel framework**
 
-- You can find my portfolio <a href="https://marchiantz.github.io/" target="_blank">Here</a>
+- You can find my portfolio <a href="https://marchiantz.github.io/" target="_blank">here</a>.
 
 - How to reach me **marc031204@gmail.com**
 
