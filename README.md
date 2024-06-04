@@ -2,6 +2,7 @@
 <h3 align="center">Your average Software Engineering Enthusiast</h3>
 
 - Currently learning **React JS, Laravel framework**
+- you can find my portfolio [marchiantz.github.io](marchiantz.github.io)
 
 - How to reach me **marc031204@gmail.com**
 
