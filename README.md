@@ -1,5 +1,5 @@
 <h1 align="center">Hey、I'm Marchian</h1>
-<h3 align="center">Your average Software Engineering Enthusiast</h3>
+<h3 align="center">Your average Software Engineering Student</h3>
 
 - Currently learning **React JS, Laravel framework**
 
