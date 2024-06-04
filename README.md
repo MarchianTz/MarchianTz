@@ -3,8 +3,6 @@
 
 - Currently learning **React JS, Laravel framework**
 
-- you can find my portfolio [here](google.com)
-
 - How to reach me **marc031204@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
